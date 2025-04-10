@@ -10,7 +10,7 @@
         "postcss",
         "svelte"
     ],
-    "svelte.plugin.svelte.compilerWarnings": {
+    "svelte.plugin.svelte.compiler warnings": {
         "a11y-missing-attribute": "error"
     },
     "svelte.plugin.svelte.rename.enable": false
