@@ -19,7 +19,7 @@
     "del": "^6.0.0",
     "eslint": "^8.10.0",
     "eslint-plugin-svelte3": "^2.7.3",
-    "gulp": "^4.0.2",
+    "gulp": "^5.0.1",
     "gulp-dom": "^1.0.0",
     "gulp-html-minifier-terser": "^6.0.1",
     "gulp-inline-source": "^4.0.0",
